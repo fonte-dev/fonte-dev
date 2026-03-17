@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>From Therapeutic Companion to Agentic AI Engineer</strong><br>
-  Building <strong>MERITUM</strong> — Argentina’s first meritocratic platform for Acompañantes Terapéuticos, families & Obras Sociales.
+  Building <strong>MERITUM</strong>: Argentina’s first meritocratic platform for Acompañantes Terapéuticos, families & Obras Sociales.
 </p>
 
 ---
